@@ -23,13 +23,16 @@ The following files allow you to make basic configurations by editing their valu
 
 
 HOW TO RUN
+
+IMPORTANT: Configure tweepy_authentication.py with your twitter API credentials before continuing
+
 I. over CMD:
   1. go into the directory of the "Twitter_Project" Folder
   2. open the command line in that directory
   3. enter "python main.py"
   4. the app will start and the assistant will guide the user on how to navigate through the app
 
-2. over IDE (VS Code, PyCharm, ...)
+II. over IDE (VS Code, PyCharm, ...)
  1. open main.py with IDE
  2. run main.py by clicking on the run button
  3. the app will start and the assistant will guide the user on how to navigate through the app
